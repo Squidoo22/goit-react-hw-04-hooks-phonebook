@@ -1,0 +1,13 @@
+.label {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+
+.input {
+  max-width: 200px;
+}
+
+.btn {
+  margin-top: 20px;
+}
